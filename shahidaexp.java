@@ -1,9 +1,9 @@
 package exceptionHandling;
 
 
-public class SrushtiExp extends Exception
+public class ShahidaExp extends Exception
 {
-	public SrushtiExp(String message) 
+	public ShahidaExp(String message) 
 	{
 		super(message);
 	}
